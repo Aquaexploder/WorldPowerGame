@@ -98,8 +98,8 @@ public class CountryList {
 		Country Kuwait = new Country();
 		Country Kyrgyzstan = new Country();
 		Country Laos = new Country();
-		Country Latvia = new Country();
-		Country Lebanon = new Country();
+		Country Latvia = new Country(30.26, 0, 0, .000345, 0.847,);
+		Country Lebanon = new Country(51.84, 0, 0, .000844, 0.757);
 		Country Lesotho = new Country();
 		Country Liberia = new Country();
 		Country Libya = new Country();
